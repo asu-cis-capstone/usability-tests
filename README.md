@@ -21,3 +21,8 @@ CIS 440 students are prototyping new user interfaces to collecting course feedba
 ## 1:30pm section
 
 - [1:30pm Prototype 1](https://usabilityhub.com/do/f73f5d1e23f/250d)
+- [1:30pm Prototype 2](https://usabilityhub.com/do/6a60af23ecc4/4ae)
+- [1:30pm Prototype 3](https://usabilityhub.com/do/50ad4e09b23/e251)
+- [1:30pm Prototype 4](https://usabilityhub.com/do/4da102f72a1c/4556)
+- [1:30pm Prototype 5](https://usabilityhub.com/do/a735b652eb31/8ba9)
+- [1:30pm Prototype 6](https://usabilityhub.com/do/433ef2f02d76/d00f)
